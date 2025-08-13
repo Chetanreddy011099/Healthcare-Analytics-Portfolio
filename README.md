@@ -67,8 +67,4 @@ Each project includes:
 
 ---
 
-## 📬 Contact
-💼 [LinkedIn](https://www.linkedin.com/in/venkat-chetanreddy/)  
-📧 reddychetan0110@gmail.com  
-
 *This portfolio uses synthetic/de-identified datasets for demonstration purposes only. No PHI/PII is included.*
